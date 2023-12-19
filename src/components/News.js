@@ -37,7 +37,7 @@ const News = (props) => {
     useEffect(() => {
         // document.title=`The Daily Bugle - ${capalizeFirstLetter(props.category)} `
         updateNews();
-        //eslint disable next line
+        // eslint-disable-next-line
     }, [])
 
     // handlePreviousClick = async () => {
