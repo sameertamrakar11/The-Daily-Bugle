@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/The-Daily-Bugle/static/css/main.dc4d6ff2.css",
-    "main.js": "/The-Daily-Bugle/static/js/main.c95cc3e8.js",
+    "main.js": "/The-Daily-Bugle/static/js/main.53ce0412.js",
     "static/js/787.6643f1c0.chunk.js": "/The-Daily-Bugle/static/js/787.6643f1c0.chunk.js",
     "static/media/loadingGif.gif": "/The-Daily-Bugle/static/media/loadingGif.d3fbaf2b81fd92c49692.gif",
     "index.html": "/The-Daily-Bugle/index.html",
     "main.dc4d6ff2.css.map": "/The-Daily-Bugle/static/css/main.dc4d6ff2.css.map",
-    "main.c95cc3e8.js.map": "/The-Daily-Bugle/static/js/main.c95cc3e8.js.map",
+    "main.53ce0412.js.map": "/The-Daily-Bugle/static/js/main.53ce0412.js.map",
     "787.6643f1c0.chunk.js.map": "/The-Daily-Bugle/static/js/787.6643f1c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.c95cc3e8.js"
+    "static/js/main.53ce0412.js"
   ]
 }
