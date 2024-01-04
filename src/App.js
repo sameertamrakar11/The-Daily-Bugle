@@ -17,7 +17,7 @@ const App = () => {
 
   return (
     <>
-      <Router>
+      <Router basename='/The-Daily-Bugle'>
         <div >
           <Navbar />
           <LoadingBar
